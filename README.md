@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # autodoc-test
 autodoc-test-assigment
 
