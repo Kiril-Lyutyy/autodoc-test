@@ -1,0 +1,8 @@
+ehthumbs.db
+Thumbs.db
+node_modules/
+dist/
+*.idea
+*.log
+*.sql
+!.gitignore
